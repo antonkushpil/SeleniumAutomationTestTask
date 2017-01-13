@@ -1,0 +1,2 @@
+c:\users\anton.kushpil\documents\visual studio 2013\Projects\Test Task\Test Task\bin\Debug\Test Task.exe.config
+c:\users\anton.kushpil\documents\visual studio 2013\Projects\Test Task\Test Task\obj\Debug\Test Task.csprojResolveAssemblyReference.cache

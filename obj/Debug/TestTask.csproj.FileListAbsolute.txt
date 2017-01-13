@@ -1,0 +1,36 @@
+C:\Users\anton.kushpil\Documents\Visual Studio 2013\Projects\Test Task\Test Task\bin\Debug\Test Task.dll.config
+C:\Users\anton.kushpil\Documents\Visual Studio 2013\Projects\Test Task\Test Task\bin\Debug\Test Task.dll
+C:\Users\anton.kushpil\Documents\Visual Studio 2013\Projects\Test Task\Test Task\bin\Debug\Test Task.pdb
+C:\Users\anton.kushpil\Documents\Visual Studio 2013\Projects\Test Task\Test Task\bin\Debug\Common.Logging.Core.dll
+C:\Users\anton.kushpil\Documents\Visual Studio 2013\Projects\Test Task\Test Task\bin\Debug\Common.Logging.dll
+C:\Users\anton.kushpil\Documents\Visual Studio 2013\Projects\Test Task\Test Task\bin\Debug\nunit.framework.dll
+C:\Users\anton.kushpil\Documents\Visual Studio 2013\Projects\Test Task\Test Task\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\anton.kushpil\Documents\Visual Studio 2013\Projects\Test Task\Test Task\bin\Debug\WebDriver.dll
+C:\Users\anton.kushpil\Documents\Visual Studio 2013\Projects\Test Task\Test Task\bin\Debug\WebDriver.Support.dll
+C:\Users\anton.kushpil\Documents\Visual Studio 2013\Projects\Test Task\Test Task\bin\Debug\Common.Logging.pdb
+C:\Users\anton.kushpil\Documents\Visual Studio 2013\Projects\Test Task\Test Task\bin\Debug\Common.Logging.xml
+C:\Users\anton.kushpil\Documents\Visual Studio 2013\Projects\Test Task\Test Task\bin\Debug\Common.Logging.Core.pdb
+C:\Users\anton.kushpil\Documents\Visual Studio 2013\Projects\Test Task\Test Task\bin\Debug\Common.Logging.Core.xml
+C:\Users\anton.kushpil\Documents\Visual Studio 2013\Projects\Test Task\Test Task\bin\Debug\nunit.framework.xml
+C:\Users\anton.kushpil\Documents\Visual Studio 2013\Projects\Test Task\Test Task\bin\Debug\WebDriver.xml
+C:\Users\anton.kushpil\Documents\Visual Studio 2013\Projects\Test Task\Test Task\bin\Debug\WebDriver.Support.xml
+C:\Users\anton.kushpil\Documents\Visual Studio 2013\Projects\Test Task\Test Task\obj\Debug\Test Task.dll
+C:\Users\anton.kushpil\Documents\Visual Studio 2013\Projects\Test Task\Test Task\obj\Debug\Test Task.pdb
+\\Mac\Home\Documents\Test Task\Test Task\bin\Debug\Test Task.dll.config
+\\Mac\Home\Documents\Test Task\Test Task\bin\Debug\Test Task.dll
+\\Mac\Home\Documents\Test Task\Test Task\bin\Debug\Test Task.pdb
+\\Mac\Home\Documents\Test Task\Test Task\bin\Debug\Common.Logging.Core.dll
+\\Mac\Home\Documents\Test Task\Test Task\bin\Debug\Common.Logging.dll
+\\Mac\Home\Documents\Test Task\Test Task\bin\Debug\nunit.framework.dll
+\\Mac\Home\Documents\Test Task\Test Task\bin\Debug\TechTalk.SpecFlow.dll
+\\Mac\Home\Documents\Test Task\Test Task\bin\Debug\WebDriver.dll
+\\Mac\Home\Documents\Test Task\Test Task\bin\Debug\WebDriver.Support.dll
+\\Mac\Home\Documents\Test Task\Test Task\bin\Debug\Common.Logging.pdb
+\\Mac\Home\Documents\Test Task\Test Task\bin\Debug\Common.Logging.xml
+\\Mac\Home\Documents\Test Task\Test Task\bin\Debug\Common.Logging.Core.pdb
+\\Mac\Home\Documents\Test Task\Test Task\bin\Debug\Common.Logging.Core.xml
+\\Mac\Home\Documents\Test Task\Test Task\bin\Debug\nunit.framework.xml
+\\Mac\Home\Documents\Test Task\Test Task\bin\Debug\WebDriver.xml
+\\Mac\Home\Documents\Test Task\Test Task\bin\Debug\WebDriver.Support.xml
+\\Mac\Home\Documents\Test Task\Test Task\obj\Debug\Test Task.dll
+\\Mac\Home\Documents\Test Task\Test Task\obj\Debug\Test Task.pdb
